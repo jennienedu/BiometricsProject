@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext "Server=172.20.5.118\valuationsql;database=Biometrics;user id=sa;password=Boy_toy^419;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Entities/Biometrics -ContextDir Contexts/Biometrics -force -UseDatabaseNames -tables BiometricsLog, StaffBiometricRegistration -NoOnConfiguring
